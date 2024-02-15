@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jennajw.github.io/sitemap.xml
+Sitemap: https://jennajw.github.io/jenna/sitemap.xml
